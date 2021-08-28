@@ -3,7 +3,8 @@
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin: 60px auto 60px 0;
+  width: 671px;
+  margin: 60px auto;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -27,25 +28,24 @@
   height: 152px;
   background-image: url("images/a_8999d97515379446a12ebb6d6a344c81.gif");
   background-position: 50% 50%;
-  margin: 18px auto 0 481px;
+  margin: 17px auto 0 249px;
 }
 
 .u-section-1 .u-text-1 {
-  margin: 22px 443px 0 435px;
+  margin: 23px 232px 0 223px;
 }
 
 .u-section-1 .u-text-2 {
   margin: 31px 30px 0;
 }
 
+.u-section-1 .u-text-3 {
+  margin: -75px 30px 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 26px;
-  }
-
-  .u-section-1 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -54,20 +54,6 @@
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 346px;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-left: 428px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 381px;
-    margin-left: 381px;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-right: 0;
-    margin-left: 0;
   }
 }
 
@@ -79,18 +65,13 @@
   .u-section-1 .u-layout-cell-2 {
     min-height: 100px;
   }
-
-  .u-section-1 .u-image-1 {
-    margin-left: 292px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 313px;
-    margin-left: 305px;
-  }
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
   .u-section-1 .u-layout-cell-1 {
     min-height: 518px;
   }
@@ -101,11 +82,26 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 355px;
+    margin-right: 172px;
+    margin-left: 163px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
   .u-section-1 .u-layout-cell-1 {
     min-height: 326px;
   }
@@ -119,7 +115,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: 213px;
-    margin-left: 224px;
+    margin-right: 72px;
+    margin-left: 63px;
   }
 }
