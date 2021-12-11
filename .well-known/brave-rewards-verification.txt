@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: chokes.software
+Token: 6aec1173323304161cb965f84efd4a2be7bc3fd07887ed5f0a5ac28902fe4ec4
